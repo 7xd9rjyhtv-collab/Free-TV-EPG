@@ -235,7 +235,7 @@ The API documentation can be found in the [iptv-org/api](https://github.com/iptv
 
 ## Resources
 
-Links to other useful IPTV-related resources can be found in the [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) repository.
+Links to other useful IPTV-related resources can be found in the [https://github.com/Free-TV-Awesome](https://github.com/7xd9rjyhtv-collab/Free-TV-Awesome) repository.
 
 ## Discussions
 
